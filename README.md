@@ -28,4 +28,4 @@ git clone https://github.com/Hikmat-Gans-Awokawok/elitex
 
 cd elitex
 
-python elite.py
+python elited.py
